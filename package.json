@@ -1,0 +1,28 @@
+{
+  "name": "kuang_en_tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chenpeng",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer-stylus": "^0.13.0",
+    "browser-sync": "^2.18.8",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-stylus": "^2.6.0",
+    "gulp-uglify": "^2.1.2"
+  },
+  "dependencies": {
+    "jeet": "^7.1.0",
+    "kouto-swiss": "^1.1.0"
+  }
+}
